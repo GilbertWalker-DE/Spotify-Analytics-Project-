@@ -43,7 +43,7 @@ It leverages AWS-native services to build a **serverless and scalable** data wor
 
 ## 📊 Dashboard Preview  
 
-| ![Dashboard Preview](images/2025-10-19 16_51_48-datawarehouse analysis.png) |
+| ![Dashboard Preview](images/DashboardAnalysis.png) |
 |:--:|
 | *Spotify Streaming Insights Dashboard (QuickSight)* |
 
