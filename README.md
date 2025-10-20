@@ -15,7 +15,7 @@ It leverages AWS-native services to build a **serverless and scalable** data wor
 
 ## 🏗️ Architecture Overview  
 
-| ![Architecture Diagram](images/diagram.png) |
+| ![Architecture Diagram](images/Diagram.png) |
 |:--:|
 | *Spotify Analytics Pipeline Architecture* |
 
