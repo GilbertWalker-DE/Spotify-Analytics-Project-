@@ -9,7 +9,11 @@
 
 This project demonstrates an **end-to-end data pipeline** on AWS that extracts, transforms, and visualizes **Spotify data** for analytics and reporting.  
 
-It leverages AWS-native services to build a **serverless and scalable** data workflow — from raw data ingestion to business insights visualization.
+It follows the steps from [Darshil Parmar’s AWS Data Engineering Walkthrough](https://www.youtube.com/watch?v=yIc5a7C8aHs), recreated independently to reinforce key data engineering concepts.  
+
+During implementation, I encountered and resolved a **permissions issue between Athena and QuickSight**, ensuring secure and successful data access for dashboard creation.  
+
+The final solution leverages AWS-native services to build a **serverless and scalable** data workflow — from raw data ingestion to business insights visualization.
 
 ---
 
@@ -53,6 +57,7 @@ It leverages AWS-native services to build a **serverless and scalable** data wor
 - Built a **fully cloud-native ETL workflow** without local scripting.  
 - Used **AWS Glue** to transform and manage data schemas efficiently.  
 - Learned to query datasets with **Athena** and visualize metrics in **QuickSight**.  
+- Overcame a **permissions integration challenge** between Athena and QuickSight.  
 - Strengthened understanding of **data lake architecture** on AWS.  
 
 ---
