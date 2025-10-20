@@ -15,7 +15,7 @@ It leverages AWS-native services to build a **serverless and scalable** data wor
 
 ## 🏗️ Architecture Overview  
 
-| ![Architecture Diagram](images/architecture.png) |
+| ![Architecture Diagram](images/diagram.png) |
 |:--:|
 | *Spotify Analytics Pipeline Architecture* |
 
@@ -43,7 +43,7 @@ It leverages AWS-native services to build a **serverless and scalable** data wor
 
 ## 📊 Dashboard Preview  
 
-| ![Dashboard Preview](images/dashboard_preview.png) |
+| ![Dashboard Preview](images/2025-10-19 16_51_48-datawarehouse analysis.png) |
 |:--:|
 | *Spotify Streaming Insights Dashboard (QuickSight)* |
 
